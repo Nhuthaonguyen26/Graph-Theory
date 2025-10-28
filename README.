@@ -1,0 +1,22 @@
+# 🎯 Graph Theory
+
+This repository contains exercises, algorithms, and theory notes for the **Graph Theory** course.  
+Implemented mainly in **C++**.
+
+---
+
+## 📘 Contents
+- Fundamental graph concepts  
+- BFS and DFS traversal  
+- Dijkstra and Bellman-Ford algorithms  
+- Minimum Spanning Tree (Kruskal, Prim)  
+- Topological sorting  
+- Graph representations (adjacency matrix, adjacency list)
+
+---
+
+## 💻 How to Run
+```bash
+# Compile (example)
+g++ bfs.cpp -o bfs
+./bfs
